@@ -34,7 +34,6 @@ I'm open to joining **group projects**, contributing to open-source initiatives,
 ### 📫 Get in touch
 
 * 💼 [LinkedIn](www.linkedin.com/in/pedro-arredondo-da-silva-959295378)
-* 🐙 [GitHub](https://github.com/pedro-adasilva)
 * ✉️ [pedroadasilva.personal@gmail.com](mailto:pedroadasilva.personal@gmail.com)
 
 ---
