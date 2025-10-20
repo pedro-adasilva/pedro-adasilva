@@ -1,26 +1,42 @@
-# About me
+# 👋 Hi, I'm Pedro Da Silva
 
-🎓 I’m a psychologist from Málaga, Spain.
-💻 Completed the Google IT Support Professional Certificate, where I learned system administration and troubleshooting.
-🌱 Currently studying at 42 Málaga, focusing on Linux, Git, and C programminng.
-💡 I believe mental health and technology can work together to create a better future.
-
----
-
-🔧 Tech I’m learning & practicing
-- Linux & Shell
-- Git & GitHub
-- C programming
-- Networking basics
+🎓 **42 Málaga student** — currently immersed in the *Cursus* program, learning through real, team-based projects.
+💻 Focused on mastering **C programming**, **Shell scripting**, and **Git** in a Linux environment.
+🧠 Background in **Psychology**, which helps me approach teamwork, motivation, and communication with empathy and clarity.
+🐍 Also have basic knowledge of Python, which I use for small automation and learning exercises.
+💼 Holder of the **Google IT Support Professional Certificate**, developing solid technical foundations in troubleshooting, networking, and system administration.
 
 ---
 
-🌍 About me
-- Passionate about psychology, mental health, and human behavior.
-- Curious about how technology can help people live better lives.
-- Open to collaboration and always learning.
+### 🚀 What I'm learning & working on
+
+* Programming in **C**
+* Advanced use of **Linux** and the command line
+* **Git** for version control and collaboration
+* Problem-solving and algorithmic thinking
 
 ---
 
-📫 How to reach me
-- Email: pedroadasilva.personal@gmail.com
+### 🤝 Open to collaboration
+
+I'm open to joining **group projects**, contributing to open-source initiatives, or collaborating with other 42 students on technical challenges and experiments.
+
+---
+
+### 🌍 Languages
+
+* 🇪🇸 Spanish — native
+* 🇧🇷 Portuguese — fluent
+* 🇬🇧 English — intermediate to advanced
+
+---
+
+### 📫 Get in touch
+
+* 💼 [LinkedIn](www.linkedin.com/in/pedro-arredondo-da-silva-959295378)
+* 🐙 [GitHub](https://github.com/pedro-adasilva)
+* ✉️ [pedroadasilva.personal@gmail.com](mailto:pedroadasilva.personal@gmail.com)
+
+---
+
+> *“Keep learning, stay curious, and build things that make a difference.”*
